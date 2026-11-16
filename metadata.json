@@ -1,0 +1,6 @@
+{
+  "name": "KalshiBot — Automated Trading Terminal",
+  "description": "Automated prediction market trading bot, live Kalshi orderbook monitor, strategy engine, and historical backtester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
